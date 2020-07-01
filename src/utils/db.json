@@ -2,13 +2,13 @@
     "results": [
         {
             "respository": "Project-1",
-            "image": "./images/readMe1.png", 
+            "image": "../public/images/readMe1.png", 
             "description": "A dynamic application that uses HTML5, Bulma and third party API's", 
             "link": "https://cglennon924.github.io/Project-1/"
         },
         {
             "respository": "Employee Management System",
-            "image": "../../components/images/EMS.png", 
+            "image": "https://user-images.githubusercontent.com/63322716/84333679-6e0f6680-ab5e-11ea-8b3a-0990135421e1.png", 
             "description": "An application the harnesses Node.js and MySQL to manage a businesses Employees, Departments, Roles and Budget", 
             "link": "https://github.com/cglennon924/Employee-SQL"   
         },
@@ -20,7 +20,7 @@
         },
         {
             "respository": "Eat Da Burger",
-            "image": "https://user-images.githubusercontent.com/61035701/84941802-e078cd00-b0af-11ea-8e78-26b7d132af23.png", 
+            "image": "https://user-images.githubusercontent.com/63322716/84605351-9652da00-ae6a-11ea-83c3-39db317d027b.png", 
             "description": "An application that allows a user to type in a burger they desire and they can devour it!", 
             "link": "https://fierce-ravine-95275.herokuapp.com/"
         }
