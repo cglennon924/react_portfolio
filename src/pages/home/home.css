@@ -1,0 +1,54 @@
+.about-me-profile-img {
+    height:auto;
+    width:auto;
+    margin: 15px;
+    padding: 1rem;
+}
+  
+/* index.html background styling w/ image url */
+  
+.about-me-background {
+    background-image: url('https://images.unsplash.com/photo-1544738502-849ab3c63e50?ixlib=rb-1.2.1&auto=format&fit=crop&w=1027&q=80');
+    min-height: 720px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+  
+/* index.html container background styling*/
+  
+.about-me-container {
+    background-color: rgba(255,255,255, 0.76);
+    text-align: center;
+    margin: 1rem;
+    border-radius:2rem;  
+}
+
+/* Jumbotron Custom Styling with Google Font*/
+
+.jumtron {
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    width: auto;
+}
+  
+.jumtron-title {
+    background-color: black;
+    font-size: 60px;
+    color: hotpink;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 0.1rem;
+    border-radius: 2rem;
+}
+       
+  /* Font styling with Google Font */
+  
+.universal-font {
+    color: rgba(87, 95, 239, 1);
+    font-size: 1.3rem;
+    line-height: 1.5;
+    font-family: 'Bebas Neue', cursive;
+    padding:15px;
+}
