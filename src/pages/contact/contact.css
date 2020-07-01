@@ -1,0 +1,33 @@
+.contact-background{
+    background-image: url('https://images.unsplash.com/photo-1515675533504-0975e377ba13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    min-height: 720px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+/* contact.html: contact form styling*/
+
+.contact-me {
+    text-align: left;
+    background-color: rgba(255,255,255, 0.76);
+    padding: 15px;
+    height: auto;
+    width: auto;
+    border-radius: 2rem;
+}
+  
+.button-contact {
+    margin: 1rem;
+    right:  50%;
+    vertical-align: middle;
+    background-color: black;
+    padding: 0.375rem .75rem;
+    font-size: 1.5rem;
+    line-height: 2.0;
+    border-radius: .25rem;
+    font-family: 'Bangers', cursive;
+    color:hotpink;
+}
