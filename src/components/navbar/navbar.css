@@ -3,6 +3,12 @@
   cursor: pointer;
 }
 
+.navbar{
+  background-color: #4169e1;
+  margin: 0;
+  padding-bottom: 1%;
+  font-size: large;
+}
 .nav-link {
   margin-right:1em !important;
 }
