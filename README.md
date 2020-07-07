@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Description: 
 
-This is a React application hosted on GitHub via the gh-pages dependency. This application is my Coding Camp Portfolio, where users can find my biograhpy, list of completed projects and even find contact information. 
+This application is my bootcamp Portfolio that uses React. Users can find my biograhpy, list of completed projects and even find contact information. 
 
 ### Dependencies:
 
@@ -19,7 +19,6 @@ This is a React application hosted on GitHub via the gh-pages dependency. This a
 
 ### Requirements: 
 
-* Updated portfolio featuring 6 total projects
 * Use React
 * A Header component that appears on multiple pages
 * A single Project component that will be used multiple times on a single page
