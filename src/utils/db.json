@@ -32,7 +32,7 @@
         },
         {
             "respository": "Eat Da Burger",
-            "image": "../", 
+            "image": "https://user-images.githubusercontent.com/63322716/86930394-f7d23580-c104-11ea-97f1-1e8d8a5fd310.png", 
             "description": "An application that allows a user to type in a burger they desire and they can devour it!", 
             "link": "https://fierce-ravine-95275.herokuapp.com/"
         }
