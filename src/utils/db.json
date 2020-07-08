@@ -23,6 +23,18 @@
             "image": "https://user-images.githubusercontent.com/63322716/84605351-9652da00-ae6a-11ea-83c3-39db317d027b.png", 
             "description": "An application that allows a user to type in a burger they desire and they can devour it!", 
             "link": "https://fierce-ravine-95275.herokuapp.com/"
+        },
+        {
+            "respository": "Password Generator",
+            "image": "https://user-images.githubusercontent.com/63322716/86929535-f2c0b680-c103-11ea-96e1-6465173b8b32.png", 
+            "description": "An app that allows the user to create a generic password.", 
+            "link": "https://cglennon924.github.io/Password-Generator/"
+        },
+        {
+            "respository": "Eat Da Burger",
+            "image": "../", 
+            "description": "An application that allows a user to type in a burger they desire and they can devour it!", 
+            "link": "https://fierce-ravine-95275.herokuapp.com/"
         }
     ]
     

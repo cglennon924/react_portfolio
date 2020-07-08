@@ -36,7 +36,7 @@ function Navbar() {
                     <Link
                         to="/portfolio"
                         className={
-                            window.location.pathname === "/portfolio" || window.location.pathname === "/portfolio"
+                            window.location.pathname === "/portfolio" || window.location.pathname === "/portfolio" 
                             ? "nav-link active"
                             : "nav-link"
                         }
