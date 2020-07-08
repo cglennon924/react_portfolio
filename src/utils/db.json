@@ -2,7 +2,7 @@
     "results": [
         {
             "respository": "Project-1",
-            "image": "../public/images/readMe1.png", 
+            "image": "https://user-images.githubusercontent.com/63322716/86930200-bfcaf280-c104-11ea-9248-6c1cccda6166.png", 
             "description": "A dynamic application that uses HTML5, Bulma and third party API's", 
             "link": "https://cglennon924.github.io/Project-1/"
         },
