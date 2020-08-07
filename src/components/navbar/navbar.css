@@ -9,9 +9,14 @@
   padding-bottom: 1%;
   font-size: large;
   color: black;
+  height: 100%;
+  flex-flow: column;
+  flex: 0 1 auto;
+  
 }
 .nav-link {
   margin-right:1em !important;
+  color: floralwhite;
 }
 
 .nav-link:hover {
